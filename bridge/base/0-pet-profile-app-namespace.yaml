@@ -1,0 +1,8 @@
+#! 0-pet-profile-app-namespace.yaml
+# Generated code, do not edit
+apiVersion: v1
+kind: Namespace
+metadata:
+    name: pet-profile-app
+    labels:
+        com.docker.compose.project: pet-profile-app
